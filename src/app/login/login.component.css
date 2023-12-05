@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+}
+.green-line {
+  width: 300px;
+  color: #00a49d;
+  border-color: #00a49d;
+  margin-top: 50px;
+  margin-bottom: 0;
+}
+form {
+  padding-top: 50px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-content: center;
+}
+div {
+  color: red;
+}
+label {
+  display: flex;
+  flex-direction: column;
+}
